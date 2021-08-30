@@ -1,0 +1,17 @@
+{
+	"invalidUser":{
+		"email":"gotittwice@ase.com",
+		"password":"wrongpassword"
+	},
+	"signupUser":{
+		"email":"firstemail2@test.com",
+		"name" : "somename2",
+		"password":"somepassword",
+		"title":"qa",
+		"subTitle":"qa"
+	},
+	"validUser":{
+		"username":"",
+		"password":""
+	}
+}

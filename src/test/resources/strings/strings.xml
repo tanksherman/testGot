@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Error Text -->
+    <string name="err_invalid_email_or_password">Error: [auth/user-not-found] There is no user record corresponding to this identifier. The user may have been deleted.</string>
+
+    <string name="create_task_button">Create</string>
+    <string name="title">qa</string>
+
+
+</resources>
